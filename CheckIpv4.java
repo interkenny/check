@@ -1,5 +1,3 @@
-package jp.co.ogis_ri.optaplanner.vehiclerouting.mapsutil;
-
 import java.util.Scanner;
 public class CheckIpv4 {
     public static void main(String args[] ) throws Exception {
